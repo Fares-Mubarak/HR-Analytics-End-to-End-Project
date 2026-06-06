@@ -61,19 +61,24 @@ This project answers all four questions with data.
 ## 📊 Dashboard
 
 ### Page 1 — Overview
-![Overview](screenshots/01_overview.png)
+![Overview](<img width="633" height="362" alt="1" src="https://github.com/user-attachments/assets/08433d1d-8c3b-4998-8064-9740f401c291" />
+)
 
 ### Page 2 — Attrition Analysis
-![Attrition](screenshots/02_attrition.png)
+![Attrition](<img width="637" height="354" alt="2" src="https://github.com/user-attachments/assets/289fec40-61b2-49c3-ad88-25eaa576dabf" />
+)
 
 ### Page 3 — Salary & Performance
-![Salary & Performance](screenshots/03_salary_performance.png)
+![Salary & Performance](<img width="634" height="356" alt="3" src="https://github.com/user-attachments/assets/6716563e-ec3e-4eb1-bd17-973dbb00d43f" />
+)
 
 ### Page 4 — Deep Dive: Root Cause Analysis
-![Deep Dive](screenshots/04_deep_dive.png)
+![Deep Dive](<img width="634" height="356" alt="3" src="https://github.com/user-attachments/assets/5668ddd4-ebb7-43b4-a0fc-167930251d34" />
+)
 
 ### Data Model — Star Schema
-![Data Model](screenshots/05_data_model.png)
+![Data Model](<img width="503" height="379" alt="5" src="https://github.com/user-attachments/assets/efa3ee90-7ad8-4cdb-805d-709730e61704" />
+)
 
 ---
 
